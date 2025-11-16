@@ -65,5 +65,6 @@ This project demonstrates foundational Machine Learning and data analysis skills
 
 ---
 
+SURYA R
 📅 **Project Completed:** 16 November 2025  
 🔗 **GitHub Repository:** *https://github.com/Surya072003/HexSoftwares_Simple-Linear-Regression_Project*
